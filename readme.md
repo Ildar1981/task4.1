@@ -6,6 +6,25 @@ LICENCE:[MIT](./license.md)
 
 ---
 ### Содержание
+1.[git add](./add.md)  
+
+2.[git merge](./merge.md)  
+
+3.[git diff](./diff.md)
+
+4.[git push](./push.md)
+
+5.[git pull](./pull.md)
+
+6.[git branch](./branche.md)
+
+7.[git checkout](./checkout.md)
+
+8.[git log](./log.md)
+
+9.[git commit](./commit.md)
+
+10.[git status](./status.md)
 
 ---
 
